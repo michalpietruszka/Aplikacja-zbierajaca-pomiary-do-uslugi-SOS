@@ -1,0 +1,1 @@
+# Aplikacja-zbierajaca-pomiary-do-uslugi-SOS
